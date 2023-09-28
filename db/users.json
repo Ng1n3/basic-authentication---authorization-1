@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "username": "34Z2",
+      "password": 1234,
+      "user_type": "public",
+      "api_key": "bd3b9c20-8e45-48b7-bcdb-be40389059d9"
+    },
+    {
+      "username": "34Z1",
+      "password": 123456,
+      "user_type": "admin",
+      "api_key": "0e1cd7c2-2122-461f-8c50-e8cc5ff20b31"
+    },
+    {
+      "username": "Lone-Wolf",
+      "password": 1234567,
+      "user_type": "public",
+      "api_key": "66f09de1-7907-48cd-95f6-2c3be4a5dd66"
+    }
+  ]
+}
