@@ -1,2 +1,3 @@
 node_modules
 items/logs/logFile.txt
+package-lock.json
